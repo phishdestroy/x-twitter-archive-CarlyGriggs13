@@ -22,6 +22,8 @@ No export, no appeal, no warning — full data wipe.
 - 🚫 No recovery, no archive tools  
 - 🧹 Twitter silently deleted entire feed
 
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F72C2C&width=600&lines=Twitter+bans+intelligence,+not+phishing.)
+
 <figure align="center">
   <img src="screen2.png" width="55%">
   <figcaption><i>Tweet volume before suspension</i></figcaption>
@@ -49,6 +51,9 @@ No export, no appeal, no warning — full data wipe.
 Includes tweet ID, timestamp, body text, and links. Suitable for filtering, analysis, and processing.
 
 ---
+
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F73B&width=435&lines=We+don%E2%80%99t+care.+We+scale.)](https://git.io/typing-svg)
 
 ## ⚡ Active Threat Channels
 
