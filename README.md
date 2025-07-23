@@ -7,6 +7,14 @@
 
 ---
 
+<div align="center">
+  <img src="https://camo.githubusercontent.com/23abc16caf281e9865582aaa0a7201cb7f5f74b0746171568146c8455f559661/68747470733a2f2f632e74656e6f722e636f6d2f585362443930326e31667741414141692f72656e6e656e2d666173742e676966" width="320"/>
+  &nbsp;
+  <img src="https://camo.githubusercontent.com/8cb1a623a293e923f5050f479246f7d1bcf363180ae8d5b821335050943a6774/68747470733a2f2f632e74656e6f722e636f6d2f534f564d53586d5742316b41414141692f746f6e792d737461722d6a756d70696e672e676966" width="320"/>
+</div>
+
+---
+
 ## ❌ Account Terminated
 
 <figure align="center">
@@ -52,8 +60,9 @@ Includes tweet ID, timestamp, body text, and links. Suitable for filtering, anal
 
 ---
 
-
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F73B&width=435&lines=We+don%E2%80%99t+care.+We+scale.)](https://git.io/typing-svg)
+
+---
 
 ## ⚡ Active Threat Channels
 
@@ -75,6 +84,12 @@ Daily threat reports continue across multiple channels:
 
 ---
 
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif" width="440">
+</div>
+
+---
+
 ## 🧠 Message to Scam Networks 🙊
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F738E9&width=460&lines=Phishing+dies.+We+multiply.)](https://git.io/typing-svg)
@@ -90,7 +105,6 @@ Taking down our Twitter changes nothing.
 Your scam domains are still getting banned.  
 That’s not a threat — that’s a guarantee.
 
-
 ---
 
 ## ⚠️ Legal Notice
@@ -105,3 +119,19 @@ That’s not a threat — that’s a guarantee.
   <b>You can kill a page. Not the protocol.</b><br>
   <i>"You can kill the signal, but not the frequency."</i>
 </div>
+
+---
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="100%">
+</p>
+
+<p align="left">
+  <img src="https://media.giphy.com/media/2fC8cduAc35UIAxHDE/giphy.gif" width="150">
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://c.tenor.com/3dgbcMt6Kx4AAAAi/spider-insect.gif" width="40">
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/trinib/trinib/82213791fa9ff58d3ca768ddd6de2489ec23ffca/images/footer.svg" width="100%">
+</p>
