@@ -40,12 +40,14 @@ No export, no appeal, no warning — full data wipe.
 | File / Folder              | Description                                                  |
 |----------------------------|--------------------------------------------------------------|
 | `CarlyGriggs13_tweets.csv` | Last 3,500 tweets (structured CSV export)                   |
+| `domains.json`             | Collected phishing domains from tweets                      |
 | `webarchive.json`          | Archived tweet URLs via WebArchive                          |
 | `domain.json`              | Parsed phishing domains from tweet content                  |
 | `tweetfeed/`               | Raw tweet logs (approx. 1 month)                            |
 | `screen.png`               | Screenshot of suspended account                             |
 | `screen2.png`              | Screenshot with tweet activity stats                        |
 | `img.png`                  | Repo banner image                                           |
+
 
 ---
 
