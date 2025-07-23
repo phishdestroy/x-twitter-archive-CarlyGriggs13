@@ -1,83 +1,103 @@
 # 🕸️ X/Twitter Archive — CarlyGriggs13
 
 <p align="center">
-  <img src="img.png" width="300" alt="Repo Banner">
+  <img src="img.png" width="280" alt="Banner">
 </p>
 
-**Phishing report archive from the banned account [@CarlyGriggs13](https://x.com/CarlyGriggs13). 138,000+ tweets taken down by scammer abuse. Now restored.**
+<p align="center"><b>138,000+ phishing alerts. Banned by X. Restored here.</b></p>
 
 ---
 
-## ❌ Account Suspension
+## ❌ Account Terminated
 
 <p align="center">
-  <img src="screen.png" width="400" alt="Account Screenshot">
+  <img src="screen.png" style="width: 420px; height: auto;" alt="Account Screenshot">
+  <br>
+  <sub><i>@CarlyGriggs13 before takedown</i></sub>
 </p>
 
-The account was targeted and banned after repeated waves of false reports by phishing networks.  
-This wasn't the first takedown, and it won't be the last.
+Scammers mass-reported the account to suppress anti-phishing operations.  
+Twitter provided no recovery, no archive, no explanation.
 
-- 138,000+ tweets archived
-- 2,000–3,000 phishing domains reported monthly
-- No export tools, no recovery, no support
-- Entire feed wiped silently by X (Twitter)
+- 🧾 138,000+ tweets wiped
+- 🎯 2,000–3,000 phishing domains exposed monthly
+- 🚫 No export tools, no support
+- 🧹 Entire account deleted silently
 
 <p align="center">
-  <img src="screen2.png" width="400" alt="Tweet Stats Screenshot">
+  <img src="screen2.png" style="width: 420px; height: auto;" alt="Tweet Stats Screenshot">
+  <br>
+  <sub><i>Last available stats before ban</i></sub>
 </p>
-
-Reference: [AlienVault OTX Pulse](https://otx.alienvault.com/pulse/67c795cde612ce1e44d90af6)
 
 ---
 
 ## 📁 Repository Structure
 
-| File / Folder     | Description                                                |
-|-------------------|------------------------------------------------------------|
-| `webarchive.json` | Archived tweet URLs from WebArchive                        |
-| `domain.json`     | Extracted phishing domains from snapshots                  |
-| `tweetfeed/`      | Tweet logs for ~1 month, including threats and reports     |
-| `screen.png`      | Account screenshot before deletion                         |
-| `screen2.png`     | Stats screenshot showing 138K tweets                       |
-| `img.png`         | Repo banner image                                          |
+| File / Folder              | Description                                                  |
+|----------------------------|--------------------------------------------------------------|
+| `webarchive.json`          | Tweet snapshot links (archived via WebArchive)              |
+| `domain.json`              | Extracted phishing domains from tweet history               |
+| `tweetfeed/`               | Recent tweet batch (~1 month, raw logs)                     |
+| `CarlyGriggs13_tweets.csv` | Last 3,500 tweets before suspension (clean export)          |
+| `screen.png`               | Screenshot of the banned profile                            |
+| `screen2.png`              | Screenshot with account statistics                          |
+| `img.png`                  | Repository banner                                            |
 
 ---
 
-## ⚡ Active Feeds (Current Operations)
+## 📄 CSV Export
 
-Even after bans, new threats are published every day.  
-Follow real-time alerts and automated reports across platforms:
+The last 3,500 tweets are available as a structured `.csv` export:  
+📥 [`CarlyGriggs13_tweets.csv`](./CarlyGriggs13_tweets.csv)
 
-- 🐦 [@Phish_Destroy](https://x.com/Phish_Destroy) — primary X account  
-- 🐦 [@AmberMille78556](https://x.com/AmberMille78556) — active threat postings  
-- 📢 [Telegram](https://t.me/PhishDestroyAlerts) — live report feed  
-- 🐘 [Mastodon](https://mastodon.social/@phishdestroy) — federated mirror  
-- 📂 [list.json](https://github.com/phishdestroy/destroylist/blob/main/list.json) — live phishing dump (auto-updated)
+Includes: tweet ID, timestamp, full text, embedded links, and metadata.  
+Ready for parsing, filtering, threat analysis.
 
 ---
 
-## 🧠 To Scam Networks
+## 🔥 Active Threat Feeds
 
-You took down a profile. You didn’t stop anything.
+Scammers banned a page. Not the operation.  
+Daily reports continue across all active channels:
 
-- Reports are still live.
-- Domains are still getting banned.
-- Data is still distributed.
+| Platform   | Feed / URL                                              |
+|------------|----------------------------------------------------------|
+| 🐦 Twitter | [@Phish_Destroy](https://x.com/Phish_Destroy)            |
+| 🐦 Twitter | [@AmberMille78556](https://x.com/AmberMille78556)        |
+| 📢 Telegram| [@PhishDestroyAlerts](https://t.me/PhishDestroyAlerts)   |
+| 🐘 Mastodon| [@phishdestroy@mastodon.social](https://mastodon.social/@phishdestroy) |
+| 🗂️ DB Dump | [`list.json`](https://github.com/phishdestroy/destroylist/blob/main/list.json) |
 
-You wasted money trying to erase tweets.  
-We automated your failure.
+<p align="center">
+  <img src="https://img.shields.io/badge/Tweets%20Archived-138K+-red?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Phishing%20Domains%20Blocked-100%25-black?style=for-the-badge">
+</p>
+
+---
+
+## 🧠 Message to Scam Networks
+
+You spent money. We spent automation.  
+You removed an account. We deployed 5 more.
+
+- Reports still reach registrars.
+- Domains still get banned daily.
+- Telegram, Mastodon, GitHub — all operational.
+
+You don’t understand the system. You’ll keep losing.
 
 ---
 
 ## ⚠️ Legal Notice
 
-- All domains listed were confirmed phishing infrastructure at time of posting  
-- No personal or private data is stored in this repository  
-- Content is released for security research, defense, and threat intel
+- All data is public, threat-related, and OSINT-only  
+- No private or personal info included  
+- This repo exists for research, defense, forensics, and record-keeping
 
 ---
 
 <p align="center">
-  <b>You can silence a page — but not the process.</b><br>
+  <b>You can erase a username — not a threat feed.</b><br>
   <i>"You can kill the signal, but not the frequency."</i>
 </p>
