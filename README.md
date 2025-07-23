@@ -1,12 +1,18 @@
 # 🕸️ X/Twitter Archive — CarlyGriggs13
 
+<p align="center">
+  <img src="img.png" width="300" alt="Repo Banner">
+</p>
+
 **Preserving digital evidence. Fighting phishing. Resisting takedowns.**
 
 ---
 
 ## ❌ About the Account Ban
 
-<img width="700" alt="Main Account Screenshot" src="screen.png" />
+<p align="center">
+  <img src="screen.png" width="400" alt="Main Account Screenshot">
+</p>
 
 Our former X (Twitter) account [@CarlyGriggs13](https://x.com/CarlyGriggs13) was focused on phishing detection and domain takedown operations.  
 Due to mass abuse reports from scam networks, the account was permanently banned.
@@ -18,11 +24,9 @@ Due to mass abuse reports from scam networks, the account was permanently banned
 
 Despite multiple bans in the past, work continues uninterrupted across other platforms.
 
-📷 Below: screenshot showing account's tweet count  
-<img width="700" alt="Account Stats Screenshot" src="screen2.png" />
-
-🖼️ Example of archived tweet layout:  
-<img width="700" alt="Tweet Archive Snapshot" src="img.png" />
+<p align="center">
+  <img src="screen2.png" width="400" alt="Account Stats Screenshot">
+</p>
 
 🧩 Related reference:  
 https://otx.alienvault.com/pulse/67c795cde612ce1e44d90af6
@@ -38,7 +42,7 @@ https://otx.alienvault.com/pulse/67c795cde612ce1e44d90af6
 | `tweetfeed/`         | Recent tweet batch (approx. 1 month of threats/warnings)                   |
 | `screen.png`         | Screenshot of the account before deletion                                  |
 | `screen2.png`        | Screenshot showing tweet count (138K+)                                     |
-| `img.png`            | Example view of archived tweet format                                      |
+| `img.png`            | Banner image for the repository                                             |
 
 ---
 
