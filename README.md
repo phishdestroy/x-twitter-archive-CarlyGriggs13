@@ -75,16 +75,21 @@ Daily threat reports continue across multiple channels:
 
 ---
 
-## 🧠 Message to Scam Networks
+## 🧠 Message to Scam Networks 🙊
 
-You banned a name. We published 10 more.
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F738E9&width=460&lines=Phishing+dies.+We+multiply.)](https://git.io/typing-svg)
 
-- You can’t silence automation  
-- You can’t flag what rotates  
-- You can’t comprehend what scales
+You banned a name. We published ten more.  
+You think Twitter bans stop takedowns? No.
 
-You spent thousands to delete tweets.  
-We lost nothing. You lost the fight.
+Phishing sites aren’t blocked because of us.  
+They’re blocked because of **your phishing**.  
+Our system just makes it happen **faster**.
+
+Taking down our Twitter changes nothing.  
+Your scam domains are still getting banned.  
+That’s not a threat — that’s a guarantee.
+
 
 ---
 
