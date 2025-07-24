@@ -1,7 +1,7 @@
 # 🕸️ X/Twitter Archive — CarlyGriggs13
 
 <div align="center">
-  <img src="img.png" width="55%" alt="Repo Banner">
+  <img src="img.png" width="75%" alt="Repo Banner">
   <p><strong>138,000+ phishing alerts. Banned by X. Restored here.</strong></p>
 </div>
 ---
