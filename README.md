@@ -1,10 +1,9 @@
 # 🕸️ X/Twitter Archive — CarlyGriggs13
 
 <div align="center">
-  <img src="img.png" width="45%" alt="Repo Banner">
+  <img src="img.png" width="55%" alt="Repo Banner">
   <p><strong>138,000+ phishing alerts. Banned by X. Restored here.</strong></p>
 </div>
-
 ---
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Symbols/Cross%20Mark.webp" alt="Cross Mark" width="25" height="25" />  Account Terminated <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Coffin.webp" alt="Coffin" width="25" height="25" />
