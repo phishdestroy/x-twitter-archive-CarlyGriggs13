@@ -72,7 +72,7 @@ Daily threat reports continue across multiple channels:
 |------------|----------------------------------------------------------|
 | <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Animals%20and%20Nature/Bird.webp" alt="Bird" width="25" height="25" />  Twitter | [@Phish_Destroy](https://x.com/Phish_Destroy)            |
 | <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Animals%20and%20Nature/Bird.webp" alt="Bird" width="25" height="25" />  Twitter | [@AmberMille78556](https://x.com/AmberMille78556)        |
-| <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Animals%20and%20Nature/Front%20Facing%20Baby%20Chick.webp" alt="Front Facing Baby Chick" width="25" height="25" />  Telegram| [@PhishDestroyAlerts](https://t.me/PhishDestroyAlerts)   |
+| <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Animals%20and%20Nature/Front%20Facing%20Baby%20Chick.webp" alt="Front Facing Baby Chick" width="25" height="25" />  Telegram| [@destroy_phish](https://t.me/destroy_phish)   |
 | <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Animals%20and%20Nature/Panda.webp" alt="Panda" width="25" height="25" />  Mastodon| [@phishdestroy@mastodon.social](https://mastodon.social/@phishdestroy) |
 | <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Animals%20and%20Nature/T%20Rex.webp" alt="T Rex" width="25" height="25" />  Database | [`list.json`](https://github.com/phishdestroy/destroylist/blob/main/list.json) |
 
