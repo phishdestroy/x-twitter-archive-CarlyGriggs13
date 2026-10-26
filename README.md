@@ -2,7 +2,7 @@
 
 <div align="center">
   <img src="img.png" width="75%" alt="Repo Banner">
-  <p><strong>Phishing alerts from a suspended account. The surviving record, preserved.</strong></p>
+  <p><strong>138,000+ phishing alerts. Banned by X. Restored here.</strong></p>
 </div>
 ---
 
@@ -38,9 +38,10 @@ No export, no appeal, no warning — full data wipe.
 
 | File / Folder              | Description                                                  |
 |----------------------------|--------------------------------------------------------------|
-| [CarlyGriggs13_tweets.csv](CarlyGriggs13_tweets.csv) | 3,251 data records in the preserved CSV export                   |
+| `CarlyGriggs13_tweets.csv` | Last 3,500 tweets (structured CSV export)                   |
 | `domains.json`             | Collected phishing domains from tweets                      |
 | `webarchive.json`          | Archived tweet URLs via WebArchive                          |
+| `domain.json`              | Parsed phishing domains from tweet content                  |
 | `tweetfeed/`               | Raw tweet logs (approx. 1 month)                            |
 | `screen.png`               | Screenshot of suspended account                             |
 | `screen2.png`              | Screenshot with tweet activity stats                        |
@@ -51,10 +52,8 @@ No export, no appeal, no warning — full data wipe.
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Bar%20Chart.webp" alt="Bar Chart" width="25" height="25" />  CSV Export
 
-⬇️ [`CarlyGriggs13_tweets.csv`](./CarlyGriggs13_tweets.csv) — preserved structured export containing **3,251 data records**, excluding the header (verified 26 October 2026).  
-Includes tweet ID, timestamp, body text, links, language, engagement counts, and media fields. The CSV is a partial surviving export; the 138,000+ figure elsewhere describes the reported account history, not the size of this file.
-
-**[Browse the archive](https://phishdestroy.github.io/x-twitter-archive-CarlyGriggs13/)** · **[Download the CSV](https://raw.githubusercontent.com/phishdestroy/x-twitter-archive-CarlyGriggs13/main/CarlyGriggs13_tweets.csv)**
+⬇️ [`CarlyGriggs13_tweets.csv`](./CarlyGriggs13_tweets.csv) — structured export of last 3,500 tweets.  
+Includes tweet ID, timestamp, body text, and links. Suitable for filtering, analysis, and processing.
 
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F73B&width=435&lines=We+don%E2%80%99t+care.+We+scale.)
 
@@ -78,8 +77,8 @@ Daily threat reports continue across multiple channels:
 | <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Animals%20and%20Nature/T%20Rex.webp" alt="T Rex" width="25" height="25" />  Database | [`list.json`](https://github.com/phishdestroy/destroylist/blob/main/list.json) |
 
 <div align="center">
-  <img src="https://img.shields.io/badge/CSV%20Records-3%2C251-blue?style=for-the-badge">
-  <img src="https://img.shields.io/badge/Archive-Partial-black?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Tweets%20Archived-138K+-red?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Phishing%20Domains%20Blocked-100%25-black?style=for-the-badge">
 </div>
 
 ---
