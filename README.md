@@ -2,7 +2,7 @@
 
 <div align="center">
   <picture><source media="(max-width:600px) and (prefers-reduced-motion:reduce)" srcset="assets/archive-readme/hero-mobile-poster.webp" /><source media="(prefers-reduced-motion:reduce)" srcset="assets/archive-readme/hero-poster.webp" /><source media="(max-width:600px)" srcset="assets/archive-readme/hero-mobile.webp" /><img src="assets/archive-readme/hero.webp" width="100%" alt="X / Twitter Archive — preserved publications and public evidence" /></picture>
-  <p><strong>138,000+ phishing alerts. Banned by X. Restored here.</strong></p>
+  <p><strong>138,000+ phishing alerts published. Account banned. Surviving evidence preserved here.</strong></p>
 </div>
 
 <p align="center">
@@ -36,7 +36,7 @@ We exposed NameSilo. Then our main X account, **@Phish_Destroy**, was locked. We
 | <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Animals%20and%20Nature/T%20Rex.webp" alt="T Rex" width="25" height="25" />  Database | [`list.json`](https://github.com/phishdestroy/destroylist/blob/main/list.json) |
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Tweets%20Archived-138K+-red?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Alerts%20Published-138K+-red?style=for-the-badge">
   <img src="https://img.shields.io/badge/Phishing%20Domains%20Blocked-100%25-black?style=for-the-badge">
 </div>
 
